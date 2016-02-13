@@ -1,22 +1,14 @@
-## Disregard this readme
-
-This readme is, like the rest of this repository a boilerplate. This is not the readme for this project, but a readme to be used as a starting point for new projects.
-
----
-
 Welcome!
 
-The project is ...
+The project is a simple interface that fetches the channel status of various twitch users (hardcoded);
 
 This was build to complete a [FreeCodeCamp challenge](http://www.freecodecamp.com/challenges/use-the-twitchtv-json-api). You can use the code as you see fit, just don't use my personal name (scrub it out). See [license](./license.md).
 
 ## Features
 
-- Feature 1
+- Twitch-like interface
 
-- Feature 2
-
-- Feature 3
+- Responsive
 
 ## Screenshot
 
@@ -82,7 +74,3 @@ This project is licensed under the Mozilla Public License Version 2.0. You can [
 This project uses additional libraries, each with it's own license:
 
 - `jquery` - [Copyright jQuery Foundation and other contributors](https://github.com/jquery/jquery/blob/master/LICENSE.txt)
-
-#### Icons
-
-This project uses icons by [Name here](http://)
