@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="640"
+   height="360"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-692.36218)"
+     id="layer1">
+    <rect
+       width="640"
+       height="360"
+       x="0"
+       y="692.36218"
+       id="rect2986"
+       style="fill:#f5f5f5;fill-opacity:1;stroke:none" />
+    <g
+       transform="translate(84.750025,362.78406)"
+       id="g3793">
+      <path
+         d="m 196.3125,462.09375 -6.09375,15.375 0.0312,66.65625 23,0 0,12.9375 11.6875,0 12.90625,-12.9375 18.84375,0 23.59375,-23.59375 0,-58.4375 -83.96875,0 z m 7.90625,8 68.03125,0 0,45.96875 -14,14 -23,0 -12.03125,12.03125 0,-11.90625 -18.96875,0 -0.0312,-60.09375 z"
+         id="path2998"
+         style="fill:#dddddd;fill-opacity:1;stroke:none" />
+      <path
+         d="m 233.87557,490.03551 -4.11006,4.11006 -4.68458,-4.68458 -5.17072,5.17072 4.64039,4.64039 -4.50781,4.5078 4.75088,4.75088 4.92765,-4.92766 4.90555,4.90556 5.10443,-5.10443 -4.44152,-4.44151 4.5299,-4.52991 -5.21491,-5.21491 z"
+         id="path3002"
+         style="fill:#dadada;fill-opacity:1;stroke:none" />
+      <path
+         d="m 262.01621,490.25648 -4.11006,4.11006 -4.68458,-4.68458 -5.17072,5.17072 4.64039,4.64039 -4.50781,4.5078 4.75088,4.75088 4.92765,-4.92766 4.90555,4.90556 5.10443,-5.10443 -4.44152,-4.44151 4.5299,-4.52991 -5.21491,-5.21491 z"
+         id="path3002-3"
+         style="fill:#dadada;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
