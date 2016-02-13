@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<title>Twitch Streamer Status | A FreeCodeCamp Challange</title>
+	<meta name="description" content="Simple boilerplate for fast challenge development. For use with FreeCodeCamp challenges" />
+	<link rel="icon" type="image/png" href="media/icons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="media/icons/favicon-16x16.png" sizes="16x16" />
+	<link href="styles/boilerplate.css" rel="stylesheet" />
+</head>
+<body>
+	<div class="wrapper">
+		<div class="sidebar">
+			<a href="./" class="logo-link">
+				<svg y="0px" x="0px" width="30px" viewbox="0 0 30 30" version="1.1" height="30px" class="twitch-logo small">
+					<path fill-rule="evenodd" d="M21,9h-2v6h2V9z M5.568,3L4,7v17h5v3h3.886L16,24h5l6-6V3H5.568z M25,16l-4,4h-6l-3,3v-3H8V5h17V16z M16,9h-2v6h2V9z" clip-rule="evenodd"></path>
+				</svg>
+				<svg y="0px" x="0px" width="94px" viewbox="0 0 94 32" version="1.1" height="32px" class="twitch-logo large">
+					<path fill-rule="evenodd" d="M88,5h-6V0h-9l-6,5h-5.5L59,7.5V5h-5V0H36v5H16l-5-5H0v22l5,5.25L14,32h6v-1.5l3,1.5h12l2-3l1,3h7v-3l3,3h8l0.5-3l2.5,3h10l3-3v3h4l3-3v3h7l7-6V10L88,5z M13,13H8v6h5v6H6l-4-4V2h6v5h5V13z M36,21.5L32.5,25H15V7h6v12h2V7h6v12h2V7h5V21.5z M44,25h-6V7h6V25z M44,5h-6V2h6V5z M57,13h-5v6h5v6h-7l-4-4V2h6v5h5V13z M72,13h-7v6h7v6h-9l-4-4V11l4-4h9V13z M91,25h-6V13h-5v12h-6V2h6v5h7l4,4V25z" clip-rule="evenodd"></path>
+				</svg>
+			</a>
+			<div class="line"></div>
+			<ul class="links">
+				<li>
+					<a class="active" href="./">
+						<span class="icon status"></span>
+						<span class="text">Status</span>
+					</a>
+				</li>
+			</ul>
+			<footer>
+				<p class="copy">&copy; 2016 <a href="http://glogovetan.com" class="brand" target="_blank">Raul Glogovetan</a>. Project built for a <a href="http://www.freecodecamp.com/challenges/use-the-twitchtv-json-api" target="_blank">FreeCodeCamp</a> challenge.</p>
+				<a class="github" href="https://github.com/rdig/fcc-twitch" title="Raul Glogovetan's Public Repository" target="_blank"><span class="icon"></span></a>
+			</footer>
+		</div>
+		<div class="content loading">
+			<h2>Status</h2>
+			<div class="ajax" id="ajax-error">
+				<p class="error">We couldn't reach Twitch's API. Sorry :(</p>
+			</div>
+		</div>
+		<div class="ajax" id="preloader">
+			<span class="preloader"></span>
+		</div>
+	</div>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script src="scripts/boilerplate.js"></script>
+</body>
+</html>
