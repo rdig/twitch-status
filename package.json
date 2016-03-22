@@ -1,7 +1,7 @@
 {
-  "name": "fcc-twitch",
-  "version": "0.0.1",
-  "description": "Twitch Streamer Status. A FreeCodeCamp challange",
+  "name": "twitch-status",
+  "version": "0.0.2",
+  "description": "A re-creation of Twitch.tv’s official interface to show the current status of various streamers on this service",
   "main": "index.html",
   "scripts": {
     "dev": "gulp --gulpfile gulp-development.config.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rdig/fcc-twich"
+    "url": "https://github.com/rdig/twitch-status"
   },
   "author": "Raul Glogovetan",
   "license": "MPL-2.0",

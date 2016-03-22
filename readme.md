@@ -1,6 +1,4 @@
-Welcome!
-
-The project is a simple interface that fetches the channel status of various twitch users (hardcoded);
+A re-creation of Twitch.tv’s official interface to show the current status of various streamers on this service
 
 This was build to complete a [FreeCodeCamp challenge](http://www.freecodecamp.com/challenges/use-the-twitchtv-json-api). You can use the code as you see fit, just don't use my personal name (scrub it out). See [license](./license.md).
 
